@@ -1,3 +1,4 @@
-# File Details
+#File Details
+
 nginx.conf is the main file.
 reverseproxy.conf is the add-on config file (place under the folder /etc/nginx/conf.d/)
